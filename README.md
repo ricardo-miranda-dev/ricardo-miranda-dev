@@ -185,7 +185,9 @@ Areas of experimentation include:
 
 # 🤝 Connect With Me
 
-- LinkedIn
-- Email
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ricardo-miranda-b05700b4/)
+- [![Email Corporativo](https://img.shields.io/badge/Email-Corporativo-red?style=for-the-badge&logo=gmail)](mailto:rmiranda@datafact.com.ec)
+- [![Gmail](https://img.shields.io/badge/Gmail-Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rkl001989@gmail.com)
+- [![Hotmail](https://img.shields.io/badge/Outlook-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:a7x-hll7@hotmail.com)
 
 I'm always open to collaborating on **enterprise software, backend systems, and scalable applications.**
